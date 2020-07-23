@@ -1,4 +1,4 @@
-# open-roads
+# Moto Network
 
 ## Project setup
 ```
